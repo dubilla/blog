@@ -5,13 +5,13 @@ date: 2009-06-28 22:52
 comments: true
 categories: movies
 ---
-{% img aligncenter /images/www/hangover-header.jpg 300 199 'Going Down' 'The Hangover Wolfpack Rides an Elevator Down' %}
+<img aligncenter /images/www/hangover-header.jpg 300 199 'Going Down' 'The Hangover Wolfpack Rides an Elevator Down' />
 
 "Really?  You haven't seen it yet?"  I heard these words uttered early last week, mere days after The Hangover came out.  How had a movie ripped through the 18-34 demographic so quickly and earnestly?  For an age group that responds best to star power or word-of-mouth when it comes to its comedies, an ensemble cast starring, frankly, nobody managed to beat the Will Ferrell vehicle, Land of the Lost, $43.3 to $19.5 million.  The answer isn't in the marketing, which was neither ubiquitous nor varied by any considerable degree.  yet the very reason for the film's initial success is the same that will stifle the movie's longevity.  The Hangover attracts two separate sects of young moviegoers, and neither faction loved the movie for reasons that will hold their attention in six months time.
 
 <!-- more -->
 
-{% img alignleft /images/www/hangover-tyson.jpg 230 270 'Mike Tyson' 'A cameo by a young Tyson just seems fresher' %}
+<img alignleft /images/www/hangover-tyson.jpg 230 270 'Mike Tyson' 'A cameo by a young Tyson just seems fresher' />
 
 At it's core, The Hangover was a family movie for friends.  The economic success of family films are generally guaranteed because, well, kids can't go to the movies alone.  An animated movie that culls one member of a family of four, sells tickets to all four members.  Likewise, The Hangover was meant for a group of friends.  Chances are if one of your friends wanted to see the movie, all of your friends got together.  It became a miniature event of sorts.  And just like animated movies are marketed specifically to kids, The Hangover was marketed point blank at your friends that laugh at lowest common denominator humor.  If you're questioning this, the smoking gun was Mike Tyson, and you're precisely the friends that convinced the group to head to the theatre.  This is not a bad thing.  In fact, it's a great thing.  You brought people together.  This will not happen with the DVD release.
 

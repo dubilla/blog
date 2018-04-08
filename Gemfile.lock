@@ -60,6 +60,8 @@ GEM
       jekyll (~> 3.0)
     octopress-hooks (2.6.2)
       jekyll (>= 2.0)
+    octopress-image-tag (1.1.0)
+      jekyll
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.2)
@@ -85,6 +87,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   octopress
+  octopress-image-tag
 
 BUNDLED WITH
    1.16.1
