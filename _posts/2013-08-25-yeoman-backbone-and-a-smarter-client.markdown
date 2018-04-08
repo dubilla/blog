@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Yeoman, Backbone, and a Smarter Client"
+date: 2013-08-24 09:29
+comments: true
+categories: web-development
+---
+I have gone through a number of tutorials on newer front-end tools like AngularJS, Grunt, and Backbone. Nothing compares to building something of your own, though. After dipping my toe into the water numerous times before, I dove into the deep end and started combining these tools on my own.
+
+<!-- more -->
+
+I started with <a href="http://yeoman.io">Yeoman</a>, as one does. It's a tool to bootstrap your web app. With a few keystrokes on the command line, you have all the files you need to run a web application. Out of the box you get some good tools: the <a href="http://html5boilerplate.com/">HTML5 Boilerplate</a>, <a href="http://jquery.com/">jQuery</a>, and <a href="http://modernizr.com/">Modernizr</a>. You're immediately given the option to add <a href="http://requirejs.org/">RequireJS</a> for handling JavaScript loading dependencies on top of a few other options to get your web app bootstrapped even further. Yeoman starts to get super fancy, however, with its generators. Generators are bundles that allow you to bootstrap on top of the default Yeoman options. If you're building an AngularJS, Backbone or Ember app, download a generator for your project before you start Yeoman up for your latest project.
+
+With Yeoman in play, I decided to go with Backbone, and running Yeoman with <a href="https://github.com/yeoman/generator-backbone">the Backbone generator</a> left me with the perfect shell of a Backbone app to get started. Backbone is an MV* framework designed to separate application logic from view logic. (Note the * instead of a C. There are no controllers in Backbone. Instead, much of the logic that ties up the model and the view is actually done in the view JS.) I chose Backbone over other frameworks for a couple of reasons. I really enjoy the way Backbone handles the View. I'm able to bind my model and view, and thus, keep my HTML completely separated from whatever framework I'm using at the time. I also enjoy the plug-and-play nature of Backbone. I get MV* out of the box for very little code weight. If I want to add dependency injection and AMD through RequireJS, I can run that variety of the framework. Backbone gives you options. Thirdly, I really just came across more articles and tutorials that I enjoyed from the Backbone community. When it comes down to it, the community might be the most important reason for choosing a new technology. Regardless of the framework you prefer, choose one, and get coding on the front-end, smarter and faster.
+
+I'll save my experience with Grunt for another post. The past month of diving into these front-end technologies has been incredibly eye-opening. Client-side code tools have evolved immensely in the past couple of years, and the community creating and maintaining these tools is truly inspiring. Spinning up a web app can be daunting. Creating structure for your code can leave you paralyzed before you've even begun your own project. Yeoman and Backbone are two tools I'm ready to go to war with for every new static-site project I begin.
