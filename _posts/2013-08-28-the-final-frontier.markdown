@@ -7,7 +7,7 @@ categories: movies
 ---
 <blockquote>The following is spoiler intense for both the new Star Trek movie and the season finale of LOST.  Consider yourself warned.</blockquote>
 
-<img aligncenter size-medium wp-image-45 /images/www/lost-star-trek.jpg 300 176 'lost star trek' 'Star Trek' />
+<img class="aligncenter size-medium wp-image-45" src="/images/www/lost-star-trek.jpg" width="300" height="176" title="lost star trek" alt="Star Trek" />
 
 A readers' appreciation for literature has always been rooted in their relation for the characters involved.  For some, this means a detachment from their personal lives.  Middle-aged housewives might prefer a romance novel about twenty-somethings; a young boy's favorite story could be about pirates.  Others enjoy stories because they see themselves as the leading men and women.
 

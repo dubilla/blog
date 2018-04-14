@@ -5,7 +5,7 @@ date: 2009-06-01 01:00
 comments: true
 categories: books
 ---
-<img aligncenter /images/www/ultramarathonman.jpg 158 250 'ultramarathon man' 'Ultramarathon Man' />
+<img class="aligncenter" src="/images/www/ultramarathonman.jpg" width="158" height="250" alt="ultramarathon man" title="Ultramarathon Man" />
 
 A few weeks ago, I finished up "Ultramarathon Man" by Dean Karnazes.  It's an excellent memoir by a regular guy who picked up and fell in love with beating the hell out of his body through endurance running.  I highly recommend it to anyone who's looking for inspiration for their workouts.
 
