@@ -1,0 +1,17 @@
+---
+---
+
+@import "minima";
+
+.page-list {
+  list-style: none;
+  overflow: hidden;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  .page-list-prev {
+    float: left;
+  }
+  .page-list-next {
+    float: right;
+  }
+}
