@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Space Between Autonomy and Abandonment"
-date: 2019-05-22 08:50
+date: 2019-05-22 08:51
 comments: true
 categories: management
 published: true
