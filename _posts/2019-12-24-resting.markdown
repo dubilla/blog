@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Resting"
+date: 2019-12-24 13:21
+comments: true
+categories: management
+published: true
+---
+There’s a thing that happens when an engineer gets bored. They’ll be on a project, and instead of making the best decision for the work at hand, they’ll make the decision that’s interesting. They’ll make the decision that fights boredom. This typically involves writing some code from scratch that’s imminently available, extensible, and supported as a library or even three. As a manager, this is a tough spot to be in, but there is a counter to this. The idea is to change the problem. Instead of asking the engineer to solve the problem at hand, make the problem choosing amongst libraries available and building from scratch. Make the problem the choice. Changing the problem can be a powerful tool.
+
+<!-- more -->
+
+I’m notoriously bad at resting. I set goals. I plan my weeks and my days by the half hour. I understand that time is finite and an investment, and I want to know where my investment is going. Typically, resting feels antithetical to progress.
+
+Sometime in the past few years, I’ve gotten better at this by making resting the problem to be solved. I’m still not great at it, but I am better, and the results have allowed for a longevity of sorts toward my longer-view goals
+
+I’ve discovered that resting comes in two forms: the short-term and the long-term. The short-term is handled in the day-to-day and week-to-week: the sleep, the half hour break between meetings, the movie with family or friends. The long-term comes in the bigger breaks: the vacations, the multiple days off in a row, the days when the office is closed. The long-term rest can be better understood by measuring both its longevity and its drift.
+
+Longevity is simply how long that particular break is. I’ve found that more than three days off can fit into this bucket. Anything less than that, and you’re still only accumulating short-term rest. I’ve also found that two weeks of time off is more than twice as restful as one week off. Of course, it depends on the line of work you’re in, but typically, if an engineer is taking two weeks off, someone else is picking up most of her projects. And that’s a rest multiplier. If you are able to take time off of work knowing you’re coming back to something different, you’re more likely to turn down all of your open work threads of thinking.
+
+Drift is a little harder to measure. Drift is the magnitude and direction which your team and company will change while you’re out. If the whole office shuts down for the holidays, your drift will be minimal. I’ve found that minimal drift offers the lowest effort rest. You can try checking in on work, but chances are, you’re not going to find much. Drift is higher when you’re taking your own longer time off. Your team and your company will continue moving along. The temptation to check in will be higher. The fear of what’s waiting for you when you return can affect the rest you intend to get. A key way to combat drift in rest is with a well put together out-of-office plan. Line up the projects that are in flight. Decide what needs to continue while you’re out. Find an owner for those projects, and start to hand them off before you leave the office. Decide what can wait until you return. Make a note of all stakeholders and make sure they’re in the know and can adjust their expectations. Drift can affect rest, but unlike longevity, you have a few more levers to minimize its impact.
+
+Rest doesn’t come in the same size and shape for everyone. One person’s rest is another person’s work. In rest, you’re looking for what gives you energy. This could exploring a new town or sitting down with a good book; it could involve friends and family or it could be an empty calendar. Discover what rest means to you and lean into it. Take some time to reflect on how you will feel rested and slowly make your rest that thing. If you are goal-centric, work to enjoy the feeling of doing something just to do it and not because it moves a metric or provides progress of any kind. The point of resting is the resting.
+
+If you’re managing a team or otherwise seen as a leader in your organization, rest is doubly and triply important. Your team is looking to you as an example, subconsciously or otherwise. The more time you can operate with a restful mindset, the more your team will follow suit, and the more sustainable pace you can achieve. Your rest cascades to your whole team. And when the time comes to rally around a particular effort, you and your team will be prepared.
+
+If you’re able to take the time and rest at the end of the year, take it. This time pays off in the March rushes and even through the year as a whole. Enjoy the rest, and enjoy getting better at it with each new attempt.
