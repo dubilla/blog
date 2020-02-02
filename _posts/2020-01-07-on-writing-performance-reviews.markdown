@@ -6,7 +6,7 @@ comments: true
 categories: mangement
 published: true
 ---
-The first few weeks of the year can bring fairly different paces to a startup. Some companies left for the holidays with their Q1 planning set and they are slowly ramping up steadily from the holidays to execute. Other orgs are just starting to get their Q1 and year-long plans set for 2020. The start of the year is upon, and so the one thing both of those organizations have in common is that they are probably gearing up for performance reviews. Whether you are kicking off the cobwebs or you’re hustling and struggling to clear some downtime to write, here are my tips for making the most out of the practice.
+The first few weeks of the year can bring fairly different paces to a startup. Some companies left for the holidays with their Q1 planning set and they are slowly ramping up steadily from the holidays to execute. Other orgs are just starting to get their Q1 and year-long plans set for 2020. The start of the year is upon us, and so the one thing both of those organizations have in common is that they are probably gearing up for performance reviews. Whether you are kicking off the cobwebs or you’re hustling and struggling to clear some downtime to write, here are my tips for making the most out of the practice.
 
 <!-- more -->
 
