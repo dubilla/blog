@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Push"
+date: 2020-04-22 21:27
+comments: true
+categories: mangement
+published: true
+---
+In college, I took a pool class. That’s billiards, to be clear. Every Wednesday morning one spring semester, I spent an hour shooting pool in the campus activity center. I was late for the class twice. If you’re late for the class three times, the highest grade you could get was a B. This says more about my timeliness than it does about the class.
+
+<!-- more -->
+
+I took the class with a friend. Altogether, we played 12 hours of pool that Spring. Over the first few classes, my game mostly looked the same. I worked and improved fundamentals like my footing and my form, but my strategy those first few Wednesdays was pretty much the same: get a ball in the pocket. It wasn’t very nuanced. Sometimes when it was my turn, I had a clear, straight shot, and sure, I was not skilled enough to always make these, but I knew the shot I wanted to take. The table did not have to look all that rough before I wouldn’t have a shot to shoot. In those instances I would take a shot where my goal was simply to avoid scratching — a neutral shot. By the last few classes, my options had grown. I wasn’t a shark by any means, but I didn’t need the table to leave me a straight shot. I could bank the cue ball at certain angles. I could find cuts I couldn’t see at the start of the semester. The game had broadened for me.
+
+Eighteen months later, and I had taken my first proper software job in an office. It was a nice gig that came with an unexpected perk: there was a game room with a pool table. It being my first post-college job, it took some time for me to find the courage to play. I’m sure it was a more senior teammate that invited me, but soon enough I had found the table. We began playing regularly at lunch. In about an hour, we could get three games in. Over the course of a couple of years, those hours added up. I never quite approached Gladwell’s 10,000 hours, but I’m sure I hit quadruple digits.
+
+Over those hours my game got deeper and broader. The bank shots went in more often. And the optionality of shots I could take on the table was the widest it had been. As the hours added up, the number of times dropped in which I was truly stumped on the next shot to take. Ironically, as I had fewer turns without a shot, I spent more of my time thinking about those exact scenarios. I spent time thinking about the shots I take when I don’t have a shot: I was no longer content to shoot a neutral shot. Instead, I began to find value in a particular shot that I came to call a push.
+
+A push is a shot you take with no expectation that you will sink one of your balls. It’s a shot you take for the sole purpose of setting up your next shot. It takes patience, grace, and the hope that your opponent won’t subsequently run the table on you. To execute a push, you make the slightest shot you can to make sure your next shot is a gimme. When it’s executed perfectly, a push will hit one of your balls and stop it just off of the pocket — the future shot all but secured. When it’s executed well, a push will move one of your balls to just a slightly better position for you to sink next time. You hand the turn over, but you can rest knowing you made the table just a little bit better.
+
+The table looks rough today whether you’re skilled enough to make a wide range of shots or you’re always hoping for a straight one. But you don’t have to do it all at once. Your idea of a push may look different than mine, but if you can find one thing that you can make just a little better today, we can both look forward to tomorrow.
