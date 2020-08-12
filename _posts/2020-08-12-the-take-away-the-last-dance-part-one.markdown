@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Take Away: The Last Dance, Part One"
-date: 2020-08-12 08:28
+date: 2020-08-12 08:29
 comments: true
 categories: management
 published: true
