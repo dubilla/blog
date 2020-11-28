@@ -3,7 +3,7 @@ layout: post
 title: "Homebrew Postgres on Big Sur"
 date: 2020-11-25 09:34
 comments: true
-categories: software
+categories: web-development
 published: true
 ---
 I recently ran into an issue with Postgres after upgrading to Big Sur. This is pretty typical for me after OS updates; the feedback loop between updates is too long for my memory. After flailing and staring at [countless](https://stackoverflow.com/questions/13410686/postgres-could-not-connect-to-server) [Stack](https://stackoverflow.com/questions/24627701/a-server-is-already-running-check-tmp-pids-server-pid-exiting-rails) [Overflow](https://stackoverflow.com/questions/17822974/postgres-fatal-database-files-are-incompatible-with-server) [threads](https://stackoverflow.com/questions/19076980/postgres-versions-are-not-compatible), I found my way out of the woods. Here's my particular breadcrumb trail.
