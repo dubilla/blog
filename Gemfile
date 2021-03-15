@@ -9,7 +9,8 @@ ruby "2.6.6"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.4"
+gem "jekyll", "~> 3.7"
+gem "kramdown-parser-gfm"
 gem "rake"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
