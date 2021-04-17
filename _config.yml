@@ -16,9 +16,9 @@
 title: Dan Ubilla
 email: dan.ubilla [at] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog on engineering, engineering management, and personal growth from Dan Ubilla.
-  He focuses on best leadership practices, Ruby on Rails, JavaScript, product, web
-  applications, and managing oneself. Dan Ubilla is an engineering manager at VTS.
+  A blog on software engineering, engineering management, and personal growth from Dan Ubilla.
+  He focuses on best leadership practices, Ruby on Rails, JavaScript, team building, web
+  applications, and managing oneself. Dan Ubilla is an Engineering Manager at Asana.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "blog/:categories/:title.html"
