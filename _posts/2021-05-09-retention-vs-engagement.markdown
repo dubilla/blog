@@ -6,11 +6,11 @@ comments: true
 categories: management
 published: true
 ---
-# Retention vs Engagement
 There’s an old story that’s meant to promote the value of investing in your team. It goes something like this.
 > A CTO and a CEO are discussing the budget for the upcoming year. The CTO is trying to carve out budget for education for his team. The CEO is unsure.
 > CEO: “What if we we set aside this educational budget for our employees and they leave?”
 > CTO: “What if we don’t, and they stay?”
+
 It’s a good story. It’s fun, it’s short, and it drives the point home. Invest in your team, and it will pay off. But there’s another lesson in the story that’s almost as valuable. Retention isn’t enough.
 
 Have you been in a room with other leaders talking about people goals for the year? If you’re lucky enough to have a people team, maybe you’re in there with them and some other functional leaders, and you start talking about the upcoming year. The company is hitting a new stage, some people are leaving, and it’s probably worth assuming some percentage of the team is going to turn over this year. And then somebody makes a suggestion. Let’s make sure we retain 90% of our team this year. This is an admirable goal. Retention is a start, but every time you hear “retention”, you should be thinking “engagement”.
