@@ -1,0 +1,19 @@
+---
+layout: post
+title: "The Art of Hanging Out in the Kitchen"
+date: 2021-06-14 18:25
+comments: true
+categories: management
+published: true
+---
+It’s been about sixteen months since I’ve worked from an office, but my return is around the corner. I’ll have a commute and a routine and not the sketchy mishmash of home and work on which I’ve survived. I have a former coach who advised me to “protect your mornings”. I stand by this advice, and I do my best to heed it. But I get a lot out of the entropy of the start of the workday. As people come into the office, they pinball to and fro, and there’s a benefit to being a pinball, too. And so I learned to appreciate the art of hanging out in the kitchen.
+
+As an engineer, it’s easy to get siloed from the rest of the company. If it wasn’t for all-hands, how often would you see folks in other departments? The further you get in your career, the more important it will be to have relationships with your counterparts in other functions. In the morning, almost everyone will need coffee. Or breakfast. Or water. After a few weeks of hanging out in the kitchen around the same time, you’ll naturally see the same folks. Conversations start up, and you start to build empathy for other groups. You can start to meet people outside your team you can chat with at the company happy hour. When their team comes up in team discussion, you can give that team a bit of a voice because you happen to know they’ve been slammed all month, so let’s give them a break this time. These relationships can form in the white spaces of work if you make sure to linger just a little longer as you make your morning coffee.
+
+As you see the same folks morning after morning, you will naturally get asked about your work. You probably have a stand up every morning, and you’ve built up the language and framing that allows you to share what you’re working on with your team. You’re also probably used to describing this work with a group of folks who have all the context they need to grok your updates. When someone from another department asks what you’re working on these days, you’re forced to translate. At worst, you need to translate your work generically. With practice, you can start to frame your current work to directly match your audience and their understanding of the org. This is a skill you’ll carry for the rest of your career. Practice in the kitchen, so you can nail the next update at all-hands.
+
+The last benefit of slowing your morning in the office kitchen is in the routine. After weeks and months, you’ll become more approachable. People are rightfully hesitant about approaching folks at their desk. There’s a higher social bar to clear to interrupt someone. When people know they can find you somewhere more social in the morning, you’re set up to make more inbound connections.
+
+I’ve struggled with replicating this remotely. It’s a good rule that we shouldn’t be trying to relocate every office action with an online one, and so I found an approximation. Every couple of weeks, I would send a Slack message in the morning to someone I would run into in the kitchen. It would usually just be a “hey” and some reference or question to something the org or their department was up to. But I struggled to keep this up and over time the practice dragged.
+
+When I first heard the phrase “protect your morning”, it was in the context of productivity. The thinking goes that if you fill your morning with productive work, you can always end the day with a win. And so, I carved out the first hour of my day and dedicated it to moving my biggest rock. Any slowdown would eat into that ultra-productive hour. It wasn’t until I saw the compound interest of making myself slightly more available in the morning and making connections across the company that I allowed myself to slow down in the morning. It will be ok. You can hang out in the kitchen.
