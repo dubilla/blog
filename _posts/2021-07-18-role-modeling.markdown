@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Role Modeling"
+date: 2021-07-18 22:28
+comments: true
+categories: management
+published: true
+---
+When I first became an Engineering Manager, I remember being inundated with blog posts about the subtlety of role modeling. The idea, more or less, is that whenever you are given some recognition or title of any modicum of levity, people around you will begin to model your actions. The subtlety is in that neither you nor they will likely realize that it’s happening. The takeaway seemed to be that it’s important to maintain at least enough self-awareness such that you are netting out neutral in this shadow interaction. And if you can spike on self-awareness, you can even come away with a team that’s operating with a little more excellence than they might otherwise.
+
+I remember bringing this to leaders at my organization at the time, and I got a lot of nods. Those with loftier titles and more perspective on the organization mentioned this only increases with perceived stature. The tricky part, they mentioned was that the loftier the perceived status, the less presence time was shared, so each interaction carried more pressure. On the flip side, I was told that this importance of presence had already started before I had take on the new role. The new title just provided a platform of credit given by the organization. And so, I’ll pass thing along to you: you are already modeling your role for your colleagues. The question is if you are modeling the role you intend to model.
+
+The first few weeks working remotely in 2020, I tried to think on how I could maintain the presence of leadership remotely that I wanted my team to model. The surface area for presence is smaller working remotely. In distributed environments, writing carries more weight, so I tried to frame my words forgivingly. Beyond that, my remote presence was mostly through 1:1s and meeting time. In meetings, one practice I leaned into was calling out others’ behavior when I felt they were helping the team – publicly sharing what I wanted to see more of. A larger thing I tried was to take on any speaking opportunity within the company that I could. I sat in on two panels. I volunteered to present when given the chance. And I hoped that through this additional surface area, I could model out behavior for my team.
+
+But now, I’ve started going into the office again, and I’m trying to remember some of the in-person behaviors I would try to model my own values. I value collaboration, humility, reflection, and growth. Reflection and growth I can continue to model in retrospectives and 1:1s. But collaboration and humility can be modeled well in-person. To that end, I want my team to see me catching up with other teams. EMs, PMs, engineers, designers — everybody. I want my team to see me treat everybody equally regardless of whether another person or team can help me or my team out, and so I try my best to model respect for others in every facet of the working day.
+
+Role modeling isn’t the kind of thing you put minimal effort into and then skate by on. It’s also not the kind of thing you put a lot of concerted time and energy into. After some time, you can begin to reflect on what values you may have modeled in any given in-public interaction and start to tune your approach consciously over time. If you’re starting to go into the office, start thinking about the role model you want to be for your team. You have an even bigger opportunity to set a great example.
