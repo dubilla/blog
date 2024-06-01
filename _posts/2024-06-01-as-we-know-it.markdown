@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "As We Know It"
-date: 2024-06-01 08:28
+date: 2024-06-02 08:28
 comments: true
 categories: management
 published: true
