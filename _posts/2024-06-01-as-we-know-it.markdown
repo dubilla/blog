@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Portfolio of Work"
-date: 2024-08-07 08:28
+date: 2024-08-06 08:28
 comments: true
 categories: management
 published: true
