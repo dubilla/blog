@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "2.6.6"
+ruby "3.3.4"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -12,7 +12,7 @@ ruby "2.6.6"
 gem "jekyll", "~> 3.7"
 gem "kramdown-parser-gfm"
 gem "rake"
-gem "puma"
+gem "puma", "~> 4.x"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
