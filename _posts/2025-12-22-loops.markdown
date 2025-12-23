@@ -6,14 +6,14 @@ comments: true
 categories: management
 published: true
 ---
-Lately, I’ve been thinking a lot about one of my first programming lessons. I must have been 8 or 9, and I had picked up a VisualBasic textbook that was wedged firmly in the family bookshelf. The first exercise was programming a dot to move one space on a board on the screen. It was fascinating and wildly rewarding, but as you know, this story isn’t about moving that dot one space. This story is about the next lesson.
+Lately, I’ve been thinking a lot about one of my first programming lessons. I must have been 8 or 9, and I had picked up a VisualBasic textbook that was wedged firmly in the family bookshelf. The first exercise was programming a dot to move one space on a board on the screen. It was fascinating and wildly rewarding, but as you know, this story isn’t about moving that dot one space. This story is about the next lesson — how to move that dot again and again and again in just a couple more lines of code.
 
-About a year ago, I spent a lot of time thinking about how to use LLMs. What are they good at? Where do I need that? It was a pretty daunting exercise to examine everything you're doing and try to find the right job to be done. And while I did find the odd use case, and I did make progress on that one side project, the models kept getting better. And I kept wondering what else I could be using them.
+About a year ago, I spent a lot of time thinking about how to use LLMs. What are they good at? Where do I need that? It was a pretty daunting exercise to examine everything you're doing and try to find the right job to be done. And while I did find a few use cases here and there, the models kept getting better. And I kept wondering what else I could be using them for.
 
-It was only recently that I realized I’d fallen into a habit of creating loops for myself. In these loops, I’d use LLMs, learn something about them, and find myself incentivized to return to the beginning where I’d once again use LLMs, and learn something about them. Each time, I would push the boundary on what I did the last time. And after a number of reps, the broader system started to become more clear. This clarity then presented more opportunities to pull in and try LLMs in new workflows. The system became self-propelling.
+It was only recently that I realized I’d fallen into a habit of creating loops for myself. In these loops, I’d use LLMs, learn something about them, then return to the beginning: use LLMs, learn something more. Each discovery pulled me back for another rep. Each time, I would push the boundary on what I did the last time. And after a number of reps, the broader system started to become more clear. This clarity then presented more opportunities to pull in and try LLMs in new workflows. The system became self-propelling.
 
-Subconsciously, I fell into two principles I adhere to:
+I fell into two principles I adhere to:
 1. When you’re uncertain, make moves that collect information.
 2. Where possible, compound knowledge.
 
-Create loops. If you’re a software engineer, solve a problem you see often. Push it to production where you can gather feedback. Then iterate, iterate, iterate. The old lessons prevail. Happy looping!
+Create loops. If you’re a software engineer, solve a problem you see often. Push it to production where you can gather feedback. Then iterate, iterate, iterate. Start simple. Repeat. The old lessons prevail. Happy looping!
