@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "blog/:categories/:title.html"
 twitter_username: dubilla
 github_username:  dubilla
-google_analytics: UA-8381236-1
+google_analytics: G-15CGBPMFNW
 disqus:
   shortname: danubilla
 
