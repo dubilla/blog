@@ -12,7 +12,6 @@ ruby "3.3.4"
 gem "jekyll", "~> 3.7"
 gem "kramdown-parser-gfm"
 gem "rake"
-gem "puma", "~> 4.x"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"

@@ -53,7 +53,6 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    nio4r (2.7.4)
     octopress (3.0.11)
       jekyll (>= 2.0)
       mercenary (~> 0.3.2)
@@ -73,8 +72,6 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.2)
-    puma (4.3.12)
-      nio4r (~> 2.0)
     rake (13.3.0)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
@@ -102,7 +99,6 @@ DEPENDENCIES
   minima
   octopress
   octopress-image-tag
-  puma (~> 4.x)
   rake
 
 RUBY VERSION
