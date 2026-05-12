@@ -9,7 +9,7 @@ ruby "3.3.4"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7"
+gem "jekyll", "~> 4.3"
 gem "kramdown-parser-gfm"
 gem "rake"
 
@@ -22,8 +22,6 @@ gem "minima"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-  gem "octopress"
-  gem "octopress-image-tag"
+  gem "jekyll-feed", "~> 0.17"
   gem "jekyll-paginate-v2"
 end

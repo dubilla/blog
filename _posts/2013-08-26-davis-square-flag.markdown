@@ -11,6 +11,6 @@ I came across <a title="Neighborhood Flags" href="http://awesome.good.is/project
 
 Needless to say, I went for the more simplistic route in designing a flag for my Boston-area neighborhood, Davis Square.
 
-{% img aligncenter size-full wp-image-143 /images/author/davis-square-flag.gif 250 168 ;davis square flag text' 'Davis Square Flag' %}
+<img class="aligncenter size-full wp-image-143" src="/images/author/davis-square-flag.gif" width="250" height="168" alt="davis square flag" title="Davis Square Flag" />
 
 Have a design for your neighborhood you want to share?  Critique of mine?  Share them in the comments.
