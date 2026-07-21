@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Everything is Text..."
+title: "Everything Is Text: Managing LLM Context with Markdown"
+heading: "Everything is Text..."
+description: "Why plain markdown files are the key to working with LLM coding agents — canonizing context in AGENTS.md, PRDs, and todo files that sync across devices."
 date: 2025-09-10 21:13
 comments: true
 categories: management

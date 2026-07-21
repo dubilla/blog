@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "You Are a Prism"
+title: "You Are a Prism: A Manager's Role in Filtering Culture"
+heading: "You Are a Prism"
+description: "Managers filter more than information — they filter culture. How to lead when your energy and your team's diverge, drawing on Andy Grove's High Output Management."
 date: 2025-08-13 20:35
 comments: true
 categories: management

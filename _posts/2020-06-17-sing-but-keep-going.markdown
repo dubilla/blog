@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Sing, But Keep Going"
+title: "Supporting Your Team Through Social Upheaval"
+heading: "Sing, But Keep Going"
+description: "Ways to act for racial justice — protest, donate, educate yourself — and how managers can check in on and support their teams through a heavy moment."
 date: 2020-06-17 20:28
 comments: true
 categories: management

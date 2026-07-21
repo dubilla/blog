@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Taking Notes in Remote One on Ones"
+title: "How to Take Notes in Remote One-on-Ones"
+heading: "Taking Notes in Remote One on Ones"
+description: "Principles and features for a remote one-on-one note-taking system - transparent, collaborative notes that build trust and make conversations easy to recall."
 date: 2021-04-25 18:30
 comments: true
 categories: management

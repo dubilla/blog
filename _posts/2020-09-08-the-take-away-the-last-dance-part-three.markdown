@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "The Take Away: The Last Dance, Part Three"
+title: "The Last Dance Leadership Lessons, Part 3: Team Transitions"
+heading: "The Take Away: The Last Dance, Part Three"
+description: "The final part of a Last Dance discussion: handling team transitions, Phil Jackson's ending ritual, building on success, and balance in great teams."
 date: 2020-09-08 12:28
 comments: true
 categories: management

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Stop Repeating Yourself with the Rule of Three"
+title: "The Rule of Three for Managers: Write It Down"
+heading: "Stop Repeating Yourself with the Rule of Three"
+description: "If you've explained something three times, write it down. How the Rule of Three helps managers create leverage, save time, and communicate more clearly."
 date: 2024-06-09 08:56
 comments: true
 categories: management

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Start with Your Feet and Look to the Horizon"
+title: "Start with Your Feet: Advice for New Engineering Managers"
+heading: "Start with Your Feet and Look to the Horizon"
+description: "A stepwise framework for new engineering managers: stabilize the sprint backlog first, delegate, then gradually extend planning to quarters and beyond."
 date: 2024-10-03 17:35
 comments: true
 categories: management

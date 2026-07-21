@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "On Writing Performance Reviews"
+title: "How to Write Performance Reviews as an Engineering Manager"
+heading: "On Writing Performance Reviews"
+description: "A practical guide to writing performance reviews for engineers: gathering peer feedback, outlining accomplishments and growth areas, and writing with care."
 date: 2020-01-07 09:14
 comments: true
 categories: mangement

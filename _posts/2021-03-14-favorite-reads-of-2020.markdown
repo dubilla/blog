@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Favorite Reads of 2020"
+title: "Best Books I Read in 2020: 12 Recommendations"
+heading: "Favorite Reads of 2020"
+description: "Twelve book recommendations from a year of 50 reads: management picks like The Making of a Manager and Atomic Habits, plus standout fiction and nonfiction."
 date: 2021-03-14 20:15
 comments: true
 categories: books

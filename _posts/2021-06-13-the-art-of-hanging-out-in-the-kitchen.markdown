@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "The Art of Hanging Out in the Kitchen"
+title: "Building Workplace Relationships in the Office Kitchen"
+heading: "The Art of Hanging Out in the Kitchen"
+description: "Why lingering in the office kitchen pays off: cross-team relationships, practice explaining your work, and being more approachable at the start of the day."
 date: 2021-06-14 18:25
 comments: true
 categories: management
