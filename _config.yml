@@ -37,6 +37,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Presentation
 show_excerpts: true

@@ -5,7 +5,8 @@ heading: "Push"
 description: "A lesson from years at the pool table: when there's no clear shot, take the small one that sets up the next. On patience and incremental progress at work."
 date: 2020-04-22 21:27
 comments: true
-categories: mangement
+categories: management
+redirect_from: /blog/mangement/push.html
 published: true
 ---
 In college, I took a pool class. That’s billiards, to be clear. Every Wednesday morning one spring semester, I spent an hour shooting pool in the campus activity center. I was late for the class twice. If you’re late for the class three times, the highest grade you could get was a B. This says more about my timeliness than it does about the class.

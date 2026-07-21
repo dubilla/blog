@@ -5,7 +5,8 @@ heading: "On Delivering Performance Reviews"
 description: "The delivery is the multiplier. How to share the feedback package, structure the review discussion, and align with your team member on what comes next."
 date: 2020-02-08 09:07
 comments: true
-categories: mangement
+categories: management
+redirect_from: /blog/mangement/on-delivering-performance-reviews.html
 published: true
 ---
 There’s a sense of finality that can come from finishing up writing reviews. Whether you hit send weeks ago or you edited your team members’ review until the last moment, you have earned a breather. Take a breath. Heck, take two. All set? Good because next we do the work that counts: delivering the performance review.
