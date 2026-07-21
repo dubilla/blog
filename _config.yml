@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   He focuses on best leadership practices, Ruby on Rails, JavaScript, team building, web
   applications, and managing oneself. Dan Ubilla is an Engineering Manager at Asana.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://danubilla.com" # the base hostname & protocol for your site
+url: "https://www.danubilla.com" # the base hostname & protocol for your site
 tagline: Engineering leadership, software, and personal growth
 permalink: "blog/:categories/:title.html"
 twitter_username: dubilla
