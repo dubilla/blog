@@ -5,7 +5,8 @@ heading: "What Top Chef Teaches Us About Teams"
 description: "What Top Chef's Restaurant Wars reveals about teamwork: execution beats talent, play to your position, give feedback early, and take responsibility."
 date: 2020-05-20 20:46
 comments: true
-categories: mangement
+categories: management
+redirect_from: /blog/mangement/what-top-chef-teaches-us-about-teams.html
 published: true
 ---
 Two weeks ago, Top Chef aired their Restaurant Wars episode. With sports on hiatus, there aren’t many other forms of entertainment that can display team dynamics and leadership in a tight, narrative package. The annual Restaurant Wars episode in particular is a Petri dish for watching how teams form and storm all the while waiting to see if they can ever truly perform. After this episode airs every year, I'm inspired by what teams can do as well as the lessons that get enforced by the teams that can’t. Now more than ever, these examples remind us of the teams we can be and how we can avoid mistakes that trip up other teams.

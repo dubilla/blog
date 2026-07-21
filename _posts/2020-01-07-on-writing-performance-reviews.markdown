@@ -5,7 +5,8 @@ heading: "On Writing Performance Reviews"
 description: "A practical guide to writing performance reviews for engineers: gathering peer feedback, outlining accomplishments and growth areas, and writing with care."
 date: 2020-01-07 09:14
 comments: true
-categories: mangement
+categories: management
+redirect_from: /blog/mangement/on-writing-performance-reviews.html
 published: true
 ---
 The first few weeks of the year can bring fairly different paces to a startup. Some companies left for the holidays with their Q1 planning set and they are slowly ramping up steadily from the holidays to execute. Other orgs are just starting to get their Q1 and year-long plans set for 2020. The start of the year is upon us, and so the one thing both of those organizations have in common is that they are probably gearing up for performance reviews. Whether you are kicking off the cobwebs or you’re hustling and struggling to clear some downtime to write, here are my tips for making the most out of the practice.
