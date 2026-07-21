@@ -4,7 +4,7 @@ title: "You Are a Prism"
 date: 2026-06-12 20:35
 comments: true
 categories: management
-published: true
+published: false
 ---
 You are a prism. The organization exists around you, and you are in it, and you are of it. But it distills and refracts, and you are it.
 
