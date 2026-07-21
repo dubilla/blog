@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "...Everything Else Is a Task"
+title: "Separating Task from Context When Prompting LLMs"
+heading: "...Everything Else Is a Task"
+description: "Precise prompts start with a clear ask. How separating the task from its context sharpens your mental model and gets better results from LLM agents, faster."
 date: 2026-01-14 20:29
 comments: true
 categories: management

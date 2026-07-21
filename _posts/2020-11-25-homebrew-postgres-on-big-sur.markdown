@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Homebrew Postgres on Big Sur"
+title: "Fix Homebrew Postgres After Upgrading to macOS Big Sur"
+heading: "Homebrew Postgres on Big Sur"
+description: "How I debugged a broken Homebrew Postgres install after upgrading to macOS Big Sur: checking versions, downgrading to Postgres 12, and relinking with brew."
 date: 2020-11-25 09:34
 comments: true
 categories: web-development

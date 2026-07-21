@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Push"
+title: "Push: Making Small Moves When There's No Clear Shot"
+heading: "Push"
+description: "A lesson from years at the pool table: when there's no clear shot, take the small one that sets up the next. On patience and incremental progress at work."
 date: 2020-04-22 21:27
 comments: true
 categories: mangement

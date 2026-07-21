@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Scatter and Sweep"
+title: "Scatter and Sweep: A Learning Framework for Engineers"
+heading: "Scatter and Sweep"
+description: "Scatter and Sweep is a learning method pairing just-in-time research with deliberate deep study, helping engineers retain more and recall solutions faster."
 date: 2021-02-15 18:55
 comments: true
 categories: management

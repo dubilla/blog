@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Favorite Reads of 2019"
+title: "Favorite Reads of 2019: 10 Book Recommendations"
+heading: "Favorite Reads of 2019"
+description: "Ten favorite books from a year of reading: management classics like The Score Takes Care of Itself and Scaling Teams, plus fiction from Rooney, Egan, and more."
 date: 2020-12-29 08:30
 comments: true
 categories: books

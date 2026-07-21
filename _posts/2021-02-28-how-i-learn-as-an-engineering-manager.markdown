@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "How I Learn As An Engineering Manager"
+title: "How I Learn as an Engineering Manager"
+heading: "How I Learn As An Engineering Manager"
+description: "How an engineering manager keeps learning: engineering blogs, peer networks, management books, and podcasts, plus tools like Readwise and Instapaper."
 date: 2021-02-28 15:32
 comments: true
 categories: management

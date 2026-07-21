@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Eval What You Own"
+title: "Eval What You Own: Where to Test Multi-Agent LLM Systems"
+heading: "Eval What You Own"
+description: "Where to invest in evals for a multi-agent LLM pipeline: skip sub-agent and end-to-end checks and test the synthesis layer you own, using canned fixtures."
 date: 2026-05-11 19:08
 comments: true
 categories: engineering

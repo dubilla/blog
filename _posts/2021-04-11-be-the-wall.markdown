@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Be the Wall"
+title: "Be the Wall: Active Listening in One-on-Ones"
+heading: "Be the Wall"
+description: "Not every one-on-one needs your advice. How managers can use active listening to help engineers sharpen their own thinking instead of solving for them."
 date: 2021-04-11 16:53
 comments: true
 categories: management

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Push vs Pull Learning"
+title: "Push vs. Pull Learning for Engineer Onboarding"
+heading: "Push vs Pull Learning"
+description: "Two approaches to getting up to speed on a new codebase or domain: push learning for broad coverage, pull learning for learning by doing — and how to blend them."
 date: 2024-08-14 07:35
 comments: true
 categories: management

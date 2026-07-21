@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "What Top Chef Teachs Us About Teams"
+title: "Team Dynamics Lessons from Top Chef's Restaurant Wars"
+heading: "What Top Chef Teaches Us About Teams"
+description: "What Top Chef's Restaurant Wars reveals about teamwork: execution beats talent, play to your position, give feedback early, and take responsibility."
 date: 2020-05-20 20:46
 comments: true
 categories: mangement

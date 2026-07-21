@@ -2,7 +2,7 @@
 layout: default
 ---
 <span class="post-meta">{{ page.date | date: "%B %d, %Y" }}</span>
-<h2>{{ page.title }}</h2>
+<h2>{{ page.heading | default: page.title }}</h2>
 {{ content }}
 <br />
 {% assign cta = page.cta | default: "management" %}

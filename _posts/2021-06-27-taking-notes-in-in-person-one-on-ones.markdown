@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Taking Notes in In-Person One-on-Ones"
+title: "How to Take Notes in In-Person One-on-One Meetings"
+heading: "Taking Notes in In-Person One-on-Ones"
+description: "A manager's principles for note-taking in in-person 1:1s — building trust through transparency, collaboration, and shared notes after returning to the office."
 date: 2021-06-27 23:51
 comments: true
 categories: management

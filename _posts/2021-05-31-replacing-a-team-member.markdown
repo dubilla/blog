@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Replacing a Team Member"
+title: "How to Backfill a Departing Engineer on Your Team"
+heading: "Replacing a Team Member"
+description: "A teammate's departure is a chance to reshape your team. How to separate the goodbye from the backfill and write a job description for what the team needs next."
 date: 2021-05-31 21:25
 comments: true
 categories: management

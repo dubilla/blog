@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "On Delivering Performance Reviews"
+title: "How to Deliver Performance Reviews to Your Team"
+heading: "On Delivering Performance Reviews"
+description: "The delivery is the multiplier. How to share the feedback package, structure the review discussion, and align with your team member on what comes next."
 date: 2020-02-08 09:07
 comments: true
 categories: mangement

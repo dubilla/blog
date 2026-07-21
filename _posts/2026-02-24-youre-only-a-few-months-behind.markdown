@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "You're Only a Few Months Behind"
+title: "Feeling Behind on AI? You're Only a Few Months Behind"
+heading: "You're Only a Few Months Behind"
+description: "For engineers anxious about keeping up with AI tools: the technology is so new that no one is far ahead. The ground is shifting under everyone's feet."
 date: 2026-02-24 18:53
 comments: true
 categories: management

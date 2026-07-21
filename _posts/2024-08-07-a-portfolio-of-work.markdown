@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "A Portfolio of Work"
+title: "Managing a Portfolio of Work as an Engineering Leader"
+heading: "A Portfolio of Work"
+description: "How engineering leaders manage a portfolio of work: balancing sure things, calculated risks, and moonshots across projects, quarters, and teams."
 date: 2024-08-06 08:28
 comments: true
 categories: management

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Goal Review for 2020"
+title: "Annual Goal Review: Reflecting on My 2020 OKRs"
+heading: "Goal Review for 2020"
+description: "A personal OKR retrospective on 2020: how reading, running, and writing goals fared in a chaotic year, and why quarterly goal-setting is worth keeping."
 date: 2021-01-31 17:50
 comments: true
 categories: books

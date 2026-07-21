@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "The Take Away: The Last Dance, Part Two"
+title: "The Last Dance Leadership Lessons, Part 2: Pippen and Kerr"
+heading: "The Take Away: The Last Dance, Part Two"
+description: "Part two of a conversation on The Last Dance: Scottie Pippen's complementary leadership, team autonomy, owning mistakes, and what Steve Kerr learned from greats."
 date: 2020-08-19 08:49
 comments: true
 categories: management

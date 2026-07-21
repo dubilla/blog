@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "The Take Away: The Last Dance, Part One"
+title: "The Last Dance Leadership Lessons, Part 1: Managing Talent"
+heading: "The Take Away: The Last Dance, Part One"
+description: "Two friends draw management lessons from The Last Dance: supporting top talent, Phil Jackson's coaching, burnout, and Michael Jordan's intensity."
 date: 2020-08-12 08:29
 comments: true
 categories: management

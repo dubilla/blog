@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Retention vs Engagement"
+title: "Employee Retention vs Engagement: Aim for Engagement"
+heading: "Retention vs Engagement"
+description: "Retention goals keep your team intact; engagement keeps it doing great work. Why leaders should aim for engagement, and how retention follows from it."
 date: 2021-05-09 21:45
 comments: true
 categories: management

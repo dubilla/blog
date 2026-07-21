@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Managing People"
+title: "Managing People Through Tragedy: Leading with Empathy"
+heading: "Managing People"
+description: "After the Atlanta shootings, a reminder for engineering leaders: teams are people, and some are carrying unseen pain. Check in, create space, and be kind."
 date: 2021-03-28 17:25
 comments: true
 categories: management
