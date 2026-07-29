@@ -29,6 +29,19 @@ google_analytics: G-15CGBPMFNW
 disqus:
   shortname: danubilla
 
+# Social sharing (consumed by jekyll-seo-tag)
+twitter:
+  username: dubilla
+  card: summary_large_image
+
+# Default Open Graph / Twitter image for every page. Individual posts can
+# override with `image: /path.png` in their front matter.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/social-default.png
+
 # Build settings
 markdown: kramdown
 theme: minima
