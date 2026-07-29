@@ -8,6 +8,8 @@ comments: true
 categories: engineering
 published: true
 cta: none
+hero_image: /images/www/eval-what-you-own-hero.png
+hero_image_alt: "Fine ink lines flowing in from the left, converging through a single knot, and emerging clean to the right"
 ---
 Recently, I've been setting up agents to map reduce my workflows. I'm generally pulling content from a few sources, synthesizing it, and reporting. The shape is pretty consistent. It ends up looking like a few specialist connectors and agents and one synthesizing agent running weekly. This leads to one of the more sinister problems in software development: a mighty long feedback loop. So I looked to evals to speed up iteration.
 

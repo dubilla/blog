@@ -7,6 +7,8 @@ date: 2026-07-26 09:00
 comments: true
 categories: management
 published: true
+hero_image: /images/www/agency-is-agency-is-agency-hero.png
+hero_image_alt: "Topographic contour lines forming an equilateral triangle that crests to a single central summit"
 ---
 The other day I saw [a tweet from George Mack](https://x.com/george__mack/status/2055769353300095320). It depicts agency as a triangle. At each point, there's a maxim: "I will figure it out", "I can fix it if it breaks", and "I am willing to be misunderstood."
 
