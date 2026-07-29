@@ -3,6 +3,19 @@
 
 @import "minima";
 
+.post-hero {
+  margin: 30px 0 40px;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 480px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+}
+
 .page-list {
   list-style: none;
   overflow: hidden;
